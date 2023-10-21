@@ -1,14 +1,14 @@
 # M2 SISE - PROJET PYTHON/ ML - Octobre 2023
-Abdou - Nousra - Fiona
+Nousra CHAIBATI - Abdourahmane NDIAYE - Fiona STEINER
 
 ## Contexte
-GreenTech Solutions est une société deservice qui développe des applications..Une agence immobilière sollicitel’entreprise afin d’aider ses commerciauxà mieux estimer les biens à vendre. 
+GreenTech Solutions est une société deservice qui développe des applications. Une agence immobilière sollicite l’entreprise afin d’aider ses commerciaux à mieux estimer les biens à vendre. 
 
-Pour cela vous devrez développer uneapplication permettant de mieuxcomprendre le marché et d’estimer le prixde vente des nouveaux appartments.
+Pour cela nous avons développé une application permettant de mieux comprendre le marché et d’estimer le prix de vente des nouveaux appartements.
 
 ## Livrables
-- Déploiement de l’application --> URL
+- Déploiement de l’application --> http://m2-sise-2023-ml-python.eu-4.evennode.com/
 - Participation à la compétition Kaggle
-- Rapport technique --> path
-- Rapport fonctionnelle --> path
-- Rapport d’analyse --> path
+- Rapport technique --> url
+- Rapport fonctionnel --> url
+- Rapport d’analyse --> url
