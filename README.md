@@ -12,6 +12,12 @@ Pour cela nous avons développé une application permettant de mieux comprendre 
 
   /!\ Avertissement : Le site est seulement accessible via HTTP. 
   
-- Rapport technique --> url
-- Rapport fonctionnel --> url
-- Rapport d’analyse --> url
+- Rapport technique
+https://github.com/Abdouragit/Land_value_estimation/blob/main/Livrables/Rapport%20technique.pdf
+
+
+- Rapport fonctionnel
+https://github.com/Abdouragit/Land_value_estimation/blob/main/Livrables/Rapport%20fonctionnel.pdf
+
+- Rapport d’analyse
+https://github.com/Abdouragit/Land_value_estimation/blob/main/Livrables/Rapport%20d'analyse.pdf
