@@ -9,7 +9,9 @@ Pour cela nous avons développé une application permettant de mieux comprendre 
 
 ## Livrables
 - Déploiement de l’application --> http://m2-sise-2023-ml-python.eu-4.evennode.com/
+
   /!\ Avertissement : Le site est seulement accessible via HTTP. 
+  
 - Rapport technique --> url
 - Rapport fonctionnel --> url
 - Rapport d’analyse --> url
