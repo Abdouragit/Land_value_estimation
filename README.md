@@ -10,7 +10,7 @@ Pour cela nous avons développé une application permettant de mieux comprendre 
 ## Livrables
 - Déploiement de l’application --> http://m2-sise-2023-ml-python.eu-4.evennode.com/
 
-  /!\ Avertissement : Le site est seulement accessible via HTTP. 
+  /!\ Avertissement : Le site est seulement accessible via HTTP jusqu'au 20 novembre 2023. 
   
 - Rapport technique
 https://github.com/Abdouragit/Land_value_estimation/blob/main/Livrables/Rapport%20technique.pdf
